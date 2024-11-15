@@ -31,6 +31,8 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
+  "Back end development",
+  "Front end development",
   "Web design",
   "User experience",
   "Inclusive design",
@@ -45,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am very passionate about finding efficient sophisticated solutions to real problems, solutions that can give value and make the world an easier place to live.";
 
 const About = () => {
   return (

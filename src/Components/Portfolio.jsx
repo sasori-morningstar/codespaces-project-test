@@ -31,16 +31,16 @@ const imageAltText = "Passionate junior developer holding laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Sasori Morningstar's official website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my official website, for the moment it's under constructions but in the near future will be my digital realm to upload solutions to all kind of problems.",
+    url: "https://sasori-morningstar.vercel.net/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "The Pixel Dudes Collection",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The Pixel Dudes Collection is a collection of 07 different pixel art characters. Each character holds a special personnality, story and a lesson.",
+    url: "https://x.com/IlyesMedjedoub",
   },
   {
     title: "My Resume Site",
