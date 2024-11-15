@@ -39,11 +39,12 @@ section img.background {
   object-fit: cover;
   pointer-events: none;
   position: absolute;
-  top: 0;
+  bottom: 0;
   transform: translate(-50%, 0);
-  width: 100vmax;
+  
   z-index: -1;
 }
+
 
 h1 {
   font-family: "Cormorant Garamond", serif;
@@ -122,4 +123,7 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+}
+#home.background{
+  height: 90%;
 }
