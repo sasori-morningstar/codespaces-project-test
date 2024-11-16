@@ -106,7 +106,7 @@ a:hover {
   display: grid;
 }
 
-.container .box {
+.box {
   text-align: center;
   border: 1px solid #ccc;
   border-radius: 10px;
